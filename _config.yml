@@ -17,13 +17,12 @@ resume_title:                   "Predictive Analyst"
 resume_contact_email:           "Tu.Danny2@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "571-331-1819"
+resume_contact_telephone:       "123-456-7890"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
-
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Motivated, teamwork-oriented, and passionate data nerd with strong experience in delivering comprehensive reports to end-user clients. Constantly seeking to learn more through using various business intelligence and analytic tools to optimize workflows to achieve company goals faster."
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -53,6 +52,7 @@ resume_social_links:
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "https://www.dannytech.win"
   # resume_medium_url:            "https://medium.com/@jglovier"
+  resume_pdf_url:               "images/Danny_Tu_Resume.pdf"
 resume_print_social_links:      true
 
 # Design settings
