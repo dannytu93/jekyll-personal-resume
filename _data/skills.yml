@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
 - skill: Data Visualization
-  description: Tableau, PowerBI, SAP Business Objects
+  description: <ul class="resume-item-list"><li>Tableau</li><li>PowerBI</li><li>SAP Business Objects</li></ul>
 
 # Communications strategy
 - skill: Programming Languages
-  description: SQL, Python, R, Bash
+  description: <ul class="resume-item-list"><li>SQL</li><li>Python</li><li>R</li><li>Bash</li></ul>
 
 # Digital content development and creation
-- skill: IT Knowledge
-  description: Virtualization, Docker, Linux
+- skill: Technical (IT) Knowledge
+  description: <ul class="resume-item-list"><li>Virtualization</li><li>Docker</li><li>Linux</li><li>Git / SVN</li><li>AWS</li><li>Systems & Network Administration</li></ul>

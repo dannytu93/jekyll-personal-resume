@@ -3,22 +3,22 @@
 - company: NIKA Solutions
   position: Predictive Analyst
   duration: Nov, 2019 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list"><li>Develop data models and visualizations through Tableau and PowerBI</li><li>Forecast asset development through regression analysis using R</li><li>Perform data loads with Pentaho and SQL</li></ul>
 
 # CGI Federal, Inc
 - company: CGI Federal, Inc.
   position: Junior Data Scientist
   duration: April, 2019 &mdash; Nov, 2019
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: <ul class="resume-item-list"><li>Functioned in entire system development life cycle stages</li><li>Developed, maintained, and optimized SQL queries for client reporting</li><li>Utilized SAP Business Objects to deliver reports</li><li>Maintained data governance and masking dependent on specific security privileges</li></ul>
 
 # ICF International, Inc.
 - company: ICF International, Inc.
   position: Junior Technical Business Analyst
   duration: Sept, 2018  &mdash; April, 2019
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  summary: <ul class="resume-item-list"><li>Obtained insight extracted from reports to provide guidance for business related decisions</li><li>Developed and analyzed system metrics to provide guidance for business leadership</li></ul>
 
 # AMT – The Association for Manufacturing Technology
 - company: AMT – The Association for Manufacturing Technology
   position: Industry Analyst
   duration: May, 2017  &mdash; August, 2018
-  summary: I managed all production aspects of our financial reporting surveys from data verification to report distribution.
+  summary: <ul class="resume-item-list"><li>Managed all production aspects of financial reporting surveys from data verification to report distribution</li><li>Optimized reporting workflows through macros and scripts</li><li>Developed Tableau dashboards utilizing economic metrics and benchmarking data to provide insightful historical and forecasted statistics</li></ul>
